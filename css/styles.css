@@ -1,0 +1,36 @@
+#watchmore{
+    color: white;
+    background: transparent;
+    width: 20%;
+    margin: auto;
+    padding:18px;
+    border: 1px solid #ddd;
+    font-weight: 300;
+    border-radius: 30px;
+}
+.d-flex{
+    display:flex;
+    justify-content: space-evenly;
+    margin: 25px;
+}
+
+ .profile{
+    border: 1px solid whitesmoke;
+    border-radius: 6px;
+    padding: 10px;
+    margin: 5px;
+    /* background-color: rebeccapurple; */
+}
+#watchmore:hover{
+    color: white;
+    background-color: teal;
+}
+
+.intro-tag{
+    display: none;
+}
+
+
+#id-btn:hover{
+    width: 20%;
+}
